@@ -1,3 +1,4 @@
+#This is just a prototype. It runs but it is far from completion.
 import random
 import pyttsx3
 import speech_recognition as sr
