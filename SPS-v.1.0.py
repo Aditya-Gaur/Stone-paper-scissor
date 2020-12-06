@@ -35,7 +35,7 @@ while True :
                 print(f'I chose {this}\n')
                 L += 1
                 print(f'Wins = {W}, Loses ={L}\n')
-        elif i == '1':
+        elif i == 1:
             if o == 0:
                 print('You win')
                 print(f'I choose {this}\n')
@@ -46,7 +46,7 @@ while True :
                 print(f'I chose {this}\n')
                 L += 1
                 print(f'Wins = {W}, Loses ={L}\n')
-        elif i == '2':
+        elif i == 2:
             if o == 1:
                 print('You win')
                 print(f'I choose {this}\n')
