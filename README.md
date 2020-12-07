@@ -5,4 +5,6 @@
 Stone paper scissor with audio and text input.
 ### SPS-v.3.0 (ongoing)
 Stone paper scissor with audio and voice input. (prototype is available)
+#### Feel free to contribute:)
+
 
