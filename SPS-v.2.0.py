@@ -47,14 +47,14 @@ while True :
                 W += 1
                 print(f'Wins = {W}, Loses ={L}\n')
             else:
-                 engine.say('You loose')
-            engine.runAndWait()
-            print('You loose')
-            engine.say(f'I chose {this}')
-            engine.runAndWait()
-            print(f'I chose {this}\n')
-            L += 1
-            print(f'Wins = {W}, Loses ={L}\n')
+                engine.say('You loose')
+                engine.runAndWait()
+                print('You loose')
+                engine.say(f'I chose {this}')
+                engine.runAndWait()
+                print(f'I chose {this}\n')
+                L += 1
+                print(f'Wins = {W}, Loses ={L}\n')
             
         elif i == 1:
             if o == 0:
@@ -64,14 +64,14 @@ while True :
                 W += 1
                 print(f'Wins = {W}, Loses ={L}\n')
             else:
-                 engine.say('You loose')
-            engine.runAndWait()
-            print('You loose')
-            engine.say(f'I chose {this}')
-            engine.runAndWait()
-            print(f'I chose {this}\n')
-            L += 1
-            print(f'Wins = {W}, Loses ={L}\n')
+                engine.say('You loose')
+                engine.runAndWait()
+                print('You loose')
+                engine.say(f'I chose {this}')
+                engine.runAndWait()
+                print(f'I chose {this}\n')
+                L += 1
+                print(f'Wins = {W}, Loses ={L}\n')
             
         elif i == 2:
             if o == 1:
@@ -81,18 +81,19 @@ while True :
                 W += 1
                 print(f'Wins = {W}, Loses ={L}\n')
             else:
-                 engine.say('You loose')
-            engine.runAndWait()
-            print('You loose')
-            engine.say(f'I chose {this}')
-            engine.runAndWait()
-            print(f'I chose {this}\n')
-            L += 1
-            print(f'Wins = {W}, Loses ={L}\n')
+                engine.say('You loose')
+                engine.runAndWait()
+                print('You loose')
+                engine.say(f'I chose {this}')
+                engine.runAndWait()
+                print(f'I chose {this}\n')
+                L += 1
+                print(f'Wins = {W}, Loses ={L}\n')
 
     except:
         engine.say('Invalid Input')
         engine.runAndWait()
         print('Invalid Input\n')
         print(f'Wins = {W}, Loses ={L}\n')
+
 
