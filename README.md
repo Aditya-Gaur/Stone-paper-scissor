@@ -4,7 +4,7 @@
 ### SPS-v.2.0 (completed)
 Stone paper scissor with game audio and text input.
 ### SPS-v.3.0
-Stone paper scissor with audio and voice input. (prototype is available)
+Stone paper scissor with audio and voice input. 
 #### Feel free to contribute:)
 
 
